@@ -6,3 +6,15 @@
 [ ] Link to the GitHub repository
 [ ] GIF or screenshot of the deployed application
 */
+
+import React from "react";
+
+function Project() {
+    return (
+        <div>
+            
+        </div>
+    )
+}
+
+export default Project;

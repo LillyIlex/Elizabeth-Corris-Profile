@@ -5,3 +5,15 @@ This should be a welcome landing page that contains:
 [ ] Your brand statement
 [ ] Some indication that this is your portfolio site
 */
+
+import React from "react";
+
+function Home() {
+    return (
+        <div>
+            
+        </div>
+    )
+}
+
+export default Home;
